@@ -49,24 +49,7 @@ For those who use proxies, if you frequently need to turn it on and off, you can
 
 
 <h3>Also Checkout My Successful <img src="https://i.imgur.com/ZFLGimX.png" width="20"/><a href="https://sciber.dev/yt">YouTube Channel </a> </h3>
-<p>
 
-   <img height="270px" src="https://i3.ytimg.com/vi/E860EbdZHbI/maxresdefault.jpg">
-   <br>
-  <a href="https://www.youtube.com/watch?v=E860EbdZHbI"> C++ GUI: Modern UI/UX with WinUI3 + C++/WinRT</a>
-<hr style="width:50%;text-align:left;margin-left:0">
-   <img height="270px" src="https://i3.ytimg.com/vi/s7q0M4gJyB0/maxresdefault.jpg">
-   <br>
-
-<a href="https://www.youtube.com/watch?v=s7q0M4gJyB0"> 
-C++ GUI: Simple Hello World App with Labels 
-  </a>
-<hr style="width:50%;text-align:left;margin-left:0">
-   <img height="270px" src="https://i3.ytimg.com/vi/HcxlYkU8aY0/maxresdefault.jpg">
-   <br>
-<a href="https://www.youtube.com/watch?v=HcxlYkU8aY0"> 
-Install C++ CLR Workloads in Visual Studio | WinForms</a>
-<br>
 <hr style="width:50%;text-align:left;margin-left:0">
 
 <h3>Where to find me</h3>

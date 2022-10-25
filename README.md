@@ -2,8 +2,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Malindu Bandara, Graphic Designer from <b>Sri Lanka. <img src="https://i.imgur.com/4UEOLxw.png" width="20"/></b>
-<hr style="width:50%;text-align:left;margin-left:0">
+<p>Welcome to my page! </br> I'm Malindu Bandara, Graphic Designer & Software Developer from <b>Sri Lanka. <img src="https://i.imgur.com/4UEOLxw.png" width="20"/></b>
+<hr style="width:50%;text-align:left;margin-left:0"></p>
 
 <h3>Things I use to make amazing stuff!</h3>
 <p>
